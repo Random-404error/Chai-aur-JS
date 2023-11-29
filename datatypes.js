@@ -10,9 +10,27 @@
 // undefined                   //not defined 
 // Symbol                      //unique
 
+// const id = Symbol("123")
+// const anotherId = Symbol("123")
+// console.log(id === anotherId)
+
 //objects 
 
-console.log(typeof "rk")            //type 
-console.log(typeof null)           //object
-console.log(typeof undefined)     //undefined
+// console.log(typeof "rk")            //type 
+// console.log(typeof null)           //object
+// console.log(typeof undefined)     //undefined
 
+
+//                    Primitive datatypes
+
+//  7 types :  String, Number, Boolean, null, undefined, Symbol, BigInt
+
+//                    Reference  (non-Primitive)  datatypes
+
+//         Arrays,   Objects,    Functions
+
+// const arr = ["shakti", "power", "takat"]
+// let obj = { name : "Rahul", sName : "Choudhary", age : 21}
+// const fun = function(){ console.log("Hello..");  }
+
+//  Memory-->   Stack (Primitive),       Heap  (Non-Primitive)
