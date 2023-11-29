@@ -54,3 +54,34 @@
 
 
 // NaN =>   Not an NUmber
+
+
+
+//*******************oprerations **************//
+
+// let value = 3 
+// console.log(value)
+// let negValue = -value
+// console.log(negValue)
+
+//arithmatic operationss......see yourSelf
+
+// let str = "rahul"
+// let str2 = " choudhary"
+
+// let str3 = str + str2
+// console.log (str3)
+
+
+
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+"2")
+// console.log("1"+2+2)
+// console.log(1+1+"2")
+
+
+// console.log(+true)
+
+
+// preFix and PostFix increment and decrement....
